@@ -1,4 +1,4 @@
-import './style.css'
+import './index.css'
 
 import {Runtime} from "https://unpkg.com/@observablehq/runtime@4/dist/runtime.js";
       import notebook from "https://api.observablehq.com/@jashkenas/breakout.js?v=3";
